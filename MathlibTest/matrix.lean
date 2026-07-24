@@ -7,7 +7,7 @@ import Mathlib.LinearAlgebra.Matrix.Determinant.Basic
 import Mathlib.LinearAlgebra.Matrix.Determinant.Bird.Defs
 import Mathlib.LinearAlgebra.Matrix.Notation
 import Mathlib.RingTheory.Polynomial.Basic
-import Mathlib.Tactic.Determinant.Bird
+import Mathlib.Tactic.NormDet
 import Qq
 
 open Qq
